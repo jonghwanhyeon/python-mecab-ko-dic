@@ -1,6 +1,6 @@
 from pathlib import Path
 
-__version__ = "2.1.1"
+__version__ = "2.1.1.post1"
 
 _current_path = Path(__file__).absolute().parent
 
